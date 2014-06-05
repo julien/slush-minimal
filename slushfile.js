@@ -10,8 +10,7 @@ var gulp = require('gulp')
 
 gulp.task('default', function (done) {
 
-  inquirer.prompt([
-    {
+  inquirer.prompt([{
       type: 'input', 
       name: 'projectName', 
       message: 'What\'s the name of your project?',

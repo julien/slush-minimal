@@ -2,9 +2,9 @@
   "name": "slush-minimal",
   "readme": " ",
   
-  "version": "0.0.3",
+  "version": "0.0.4",
   
-  "description": "A slush generator to create webapps",
+  "description": "A slush generator to create webapps (using Make)",
   
   "main": "slushfile.js",
   
@@ -20,7 +20,7 @@
 
   "keywords": [
     "slushgenerator",
-    "phaser"
+    "Make"
   ],
 
   "author": "Julien Castelain <jcastelain@gmail.com>",
