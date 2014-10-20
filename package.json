@@ -1,13 +1,13 @@
 {
   "name": "slush-minimal",
   "readme": " ",
-  
-  "version": "0.0.4",
-  
+
+  "version": "0.0.5",
+
   "description": "A slush generator to create webapps (using Make)",
-  
+
   "main": "slushfile.js",
-  
+
   "scripts": {
     "pre-publish": "npm prune",
     "test": "echo \"No tests\""
@@ -24,13 +24,13 @@
   ],
 
   "author": "Julien Castelain <jcastelain@gmail.com>",
-  
+
   "license": "MIT",
-  
+
   "bugs": {
     "url": "https://github.com/julien/slush-minimal/issues"
   },
-  
+
   "homepage": "https://github.com/julien/slush-minimal",
 
   "dependencies": {
